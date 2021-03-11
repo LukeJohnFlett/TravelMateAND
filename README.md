@@ -10,18 +10,23 @@ MoSCoW
 Must have:
 
 •	A place to grant an overview of all the posts.
+
 •	A create post.
+
 •	A profile/login
+
 
 Should have:
 
 •	Some search filters.
+
 •	A way to communicate with each other.
 
 
 Could have:
 
 •	a map with all the destinations
+
 
 should have:
 
