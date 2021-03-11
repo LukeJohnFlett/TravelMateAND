@@ -20,9 +20,11 @@ Should have:
 
 
 Could have:
+
 •	a map with all the destinations
 
 should have:
+
 •	a nearby list, where you can see on a map who is nearby with the app.
 
 
